@@ -1,4 +1,4 @@
-name: "deeptau_nosplit"
+name: "deepTau_2017v2p6_e6_full"
 platform: "tensorflow_graphdef"
 max_batch_size: 1000
 input [
